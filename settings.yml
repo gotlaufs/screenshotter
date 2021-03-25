@@ -1,0 +1,12 @@
+# Configuration options
+
+# How often screenshots should be taken (s)
+interval: 10
+
+# How long the screenshots should be kept (days)
+keep: 7
+
+# Directory where to store screenshots
+output_directory: ""
+
+logfile: "log.log"
